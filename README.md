@@ -1,5 +1,5 @@
 # readme
 
-##Daniel Hernandez 
+Daniel Hernandez 
 
-##Ficha 2067457
+Ficha 2067457
