@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+477
+"Programa el cual permita ingresar los valores de temperatura de cada día durante una semana. El
+programa debe calcular la temperatura promedio y luego mostrar los siguientes mensajes:
+a) Si el promedio es mayor a 35° mostrar el mensaje “Que semana tan calurosa”
+b) Si el promedio esta entre 15° y 35° mostrar el mensaje Que clima tan delicioso                                                       c) Si el promedio es menor de 15° mostrar el mensaje “Que semana tan fría”"
+4
+1
+21
+"Ingrese un promedio"
+5
+1
+1
+a
+7
+0
+1
+4
+a>35
+7
+0
+1
+4
+a<15
+4
+1
+25
+"Que clima tan delicioso"
+13
+4
+1
+21
+"Que semana tan fria"
+13
+13
+4
+1
+25
+"Que semana tan calurosa"
+13
+1

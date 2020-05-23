@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+260
+"Programa que permita determinar el total a pagar por una compra de la cual se sabe el valor unitario y
+la cantidad. Se debe tener en cuenta que se realiza un descuento del 15% por compra inferiores a $20000
+y del 35% por compras mayores o iguales a $20000."
+4
+1
+17
+"Digite el valor"
+5
+1
+1
+a
+4
+1
+20
+"Digite la cantidad"
+5
+1
+1
+b
+6
+1
+2
+Vt
+3
+a*b
+7
+0
+1
+8
+Vt>20000
+7
+0
+1
+8
+Vt<20000
+13
+4
+1
+24
+"Se le descuenta el 15%"
+6
+1
+9
+Descuento
+9
+Vt*15/100
+4
+1
+31
+"El valor total es " ,Descuento
+4
+1
+23
+"Gracias por su compra"
+13
+13
+4
+1
+25
+"Se le descuenta el 30% "
+6
+1
+9
+Descuento
+9
+Vt*30/100
+4
+1
+31
+"El valor total es " ,Descuento
+4
+1
+23
+"Gracias por su compra"
+13
+1

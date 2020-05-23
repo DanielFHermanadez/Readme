@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+231
+"Programa para determinar cuánto pagara una persona por una compra de la cual se sabe la cantidad de
+artículos y el valor unitario. Se debe tener en cuenta que el almacén hace un 20% de descuento cuando la
+compra supera $100000."
+4
+1
+18
+"Digite el valor "
+5
+1
+1
+a
+4
+1
+21
+"Digite la cantidad "
+5
+1
+1
+b
+6
+1
+2
+Vt
+3
+a*b
+7
+0
+1
+9
+Vt>100000
+7
+0
+1
+9
+Vt<100000
+13
+4
+1
+21
+"No tiene descuento "
+4
+1
+23
+"Gracias por su compra"
+13
+13
+4
+1
+27
+"Tiene descuento del 20% " 
+6
+1
+9
+Descuento
+9
+Vt*20/100
+4
+1
+29
+"El resultado es " ,Descuento
+4
+1
+23
+"Gracias por su compra"
+13
+1

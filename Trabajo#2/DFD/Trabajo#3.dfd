@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+197
+"Programa para saber si un estudiante del Enrique Olaya Herrera requiere refrigerio. Por disposición de
+la Secretaria de Educación requieren refrigerio los estudiantes de grado sexto hacia abajo."
+4
+1
+34
+"Ingrese el año que esta cursando"
+5
+1
+1
+a
+7
+0
+1
+5
+a < 6
+7
+1
+1
+5
+a > 7
+4
+1
+29
+"No puede recibir refrigerio"
+13
+13
+13
+4
+1
+26
+"Puede recibir refrigerio"
+13
+1

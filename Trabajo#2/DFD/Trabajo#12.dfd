@@ -1,0 +1,120 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+261
+"Programa para determinar si un deportista es aceptado en el equipo de baloncesto de Bogotá. Las
+condiciones para ser aceptado son:
+a) La edad debe ser menor o igual a 18 años
+b) La estatura debe ser mayor a 180 cm
+c) El peso debe ser menor o igual a 80 kg"
+4
+1
+17
+"Ingrese la edad"
+5
+1
+1
+a
+4
+1
+21
+"Ingrese la estatura"
+5
+1
+1
+b
+4
+1
+17
+"Ingrese el peso"
+5
+1
+1
+c
+6
+3
+4
+Edad
+1
+a
+6
+Altura
+1
+b
+4
+Peso
+1
+c
+7
+0
+1
+8
+Edad<=18
+4
+1
+23
+"No cumple con la edad"
+7
+0
+1
+10
+Altura>180
+4
+1
+26
+"No cumples con la altura"
+7
+0
+1
+8
+Peso<=80
+4
+1
+24
+"No cumples con el peso"
+13
+13
+13
+13
+4
+1
+44
+"No pudiste ingresar intentalo a la proxima"
+13
+4
+1
+20
+"Cumple con la edad"
+7
+0
+1
+10
+Altura>180
+13
+4
+1
+23
+"Cumples con la altura"
+7
+0
+1
+8
+Peso<=80
+13
+4
+1
+21
+"Cumples con el peso"
+13
+13
+4
+1
+20
+"Bienvenido al club"
+13
+1

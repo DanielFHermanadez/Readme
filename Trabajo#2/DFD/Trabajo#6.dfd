@@ -1,0 +1,92 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+404
+"Programa en el cual reciba como entradas la siguiente información: Código del Estudiante Nombre del
+Estudiante Nombre de la Materia y Tres Notas de 1.0 a 5.0. Con esta información el programa debe
+calcular la nota definitiva (promedio) y determinar si el estudiante aprueba o no la materia (Definitiva
+mayor a 3.5 aprueba). Debe imprimir coma salidas el nombre el código la materia y si aprobó o no."
+6
+2
+6
+Nombre
+2
+""
+6
+Codigo
+2
+""
+4
+1
+28
+"Digite su nombre y codigo "
+5
+1
+13
+Nombre,Codigo
+4
+1
+20
+"Digite la materia "
+5
+1
+1
+b
+4
+1
+21
+"Digite las 3 notas "
+5
+1
+5
+c,d,e
+6
+2
+7
+materia
+1
+b
+5
+Notas
+7
+c+d+e/3
+7
+0
+1
+9
+Notas>3.5
+7
+0
+1
+9
+Notas<3.5
+13
+4
+1
+22
+"No aprobo la materia"
+13
+13
+4
+1
+20
+"Aprobo la materia "
+13
+4
+1
+23
+"El nombre es " ,nombre
+4
+1
+23
+"El codigo es " ,codigo
+4
+1
+19
+"La materia es " ,b
+1

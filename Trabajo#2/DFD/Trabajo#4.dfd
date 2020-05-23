@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+101
+"Programa para determinar si la mitad de un número ingresado por el usuario es mayor o menor de 100."
+4
+1
+18
+"Digite el numero"
+5
+1
+1
+a
+6
+1
+6
+numero
+1
+a
+7
+0
+1
+10
+numero>100
+7
+0
+1
+10
+numero<100
+13
+4
+1
+38
+"La mitad del numero es menor de 100 "
+13
+13
+4
+1
+37
+"La mitad del numero es mayor de 100"
+13
+1
