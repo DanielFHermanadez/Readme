@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+226
+"Programa que permita calcular el total de una factura  donde se le solicita al usuario cuantos artículos desea
+ingresar luego por cada artículo la cantidad y el valor unitario; hallar subtotal iva(16%) y total de la factura"
+4
+1
+36
+"¿Cuantos articulos desea ingresar?"
+5
+1
+2
+n1
+4
+1
+21
+"Ingrese la cantidad"
+5
+1
+2
+n2
+4
+1
+27
+"Ingrese el valor unitario"
+5
+1
+2
+n3
+6
+2
+11
+SubtotalIva
+14
+(n2*n3)*16/100
+10
+ValorTotal
+14
+n3+SubtotalIva
+4
+1
+34
+"El subtotal iva es " ,SubtotalIva
+4
+1
+32
+"El valor total es " ,ValorTotal
+1

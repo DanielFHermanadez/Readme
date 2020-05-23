@@ -1,0 +1,97 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+408
+"Programa que permita calcular la estatura promedio de un grupo de 18 estudiantes y luego tomar las
+siguientes decisiones:
+a) Si la estatura promedio es menor a 140 cm imprimir un mensaje que diga “Estudiantes muy bajos”.
+b) Si la estatura promedio se encuentra entre 140 y 170 cm imprimir “Estudiantes de estatura normal”.
+c) Si la estatura promedio es mayor de 170 cm imprimir “Estudiantes muy altos”."
+6
+3
+2
+n1
+1
+0
+2
+n2
+1
+0
+2
+n3
+1
+0
+4
+1
+23
+"Digiten sus estaturas"
+8
+1
+1
+i
+1
+1
+1
+1
+2
+18
+1
+1
+1
+5
+1
+2
+n1
+6
+2
+2
+n2
+5
+n2+n1
+2
+n3
+4
+n3+1
+10
+6
+1
+8
+promedio
+5
+n2/n3
+4
+1
+28
+"Su promedio es: " ,promedio
+7
+0
+1
+12
+promedio<140
+7
+0
+1
+12
+promedio>170
+4
+1
+33
+"Estudiantes con estatura normal"
+13
+4
+1
+23
+"Estudiantes muy altos"
+13
+13
+4
+1
+23
+"Estudiantes muy bajos"
+13
+1
