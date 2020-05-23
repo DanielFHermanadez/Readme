@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+"tabla de multiplicar de un numero"
+6
+3
+6
+numero
+1
+0
+5
+ciclo
+1
+0
+4
+resp
+1
+0
+4
+1
+27
+"¿que numero desean saber?"
+5
+1
+6
+numero
+4
+1
+63
+"la tabla de multiplicar ",numero," se mostrata a continuacion"
+8
+1
+5
+ciclo
+1
+1
+1
+1
+2
+12
+1
+1
+1
+6
+1
+4
+resp
+12
+numero*ciclo
+4
+1
+29
+numero, "x",ciclo , "=" ,resp
+10
+1

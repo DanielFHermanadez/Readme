@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+"Programa para calcular el área de un cuadrado la longitud de un lado la ingresa el usuario."
+4
+1
+31
+"Digite la longitud de un lado"
+5
+1
+1
+L
+6
+1
+1
+a
+3
+L*L
+4
+1
+29
+"El area del cuadrado es " ,a
+1

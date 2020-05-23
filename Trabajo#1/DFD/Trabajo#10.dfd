@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+140
+"Programa que permita determinar el salario a pagar a un empleado teniendo como entradas el salario diario
+y el número de días trabajados."
+4
+1
+19
+"Digite el salario"
+5
+1
+7
+salario
+6
+1
+8
+Salario 
+14
+salario*25/100
+4
+1
+31
+"El salario total es " ,salario
+1

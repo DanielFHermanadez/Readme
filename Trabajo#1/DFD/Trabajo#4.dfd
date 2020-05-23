@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+122
+"Programa que permita calcular la edad de una persona conociendo el año actual y el usuario digita su año
+de nacimiento."
+4
+1
+29
+"Digite el año actual actual"
+5
+1
+1
+a
+4
+1
+32
+"Digite la fecha de nacimiento."
+5
+1
+1
+b
+6
+1
+4
+años
+3
+a-b
+4
+1
+27
+"su edad actual es " , años
+1

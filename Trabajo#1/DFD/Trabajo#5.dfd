@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+"Programa para calcular el 20% de cualquier número de entrada."
+4
+1
+46
+"Digite el numero del cual desea sacar el 20%"
+5
+1
+1
+a
+6
+1
+6
+numero
+8
+a*20/100
+4
+1
+32
+" El 20% de " ,a ," es " ,numero
+1

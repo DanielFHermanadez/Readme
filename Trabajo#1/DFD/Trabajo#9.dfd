@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+"Programa que permita a una tienda saber el valor que pagara un cliente por la compra de varios elementos
+de la misma referencia."
+4
+1
+44
+"Digite el valor del producto y la cantidad"
+5
+1
+11
+n1,cantidad
+6
+1
+8
+producto
+18
+n1*cantidad*16/100
+4
+1
+47
+"El resultado de la compra total es " ,producto
+1

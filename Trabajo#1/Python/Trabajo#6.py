@@ -1,0 +1,6 @@
+n1 = int(input("ingrese el numero que desea saber el 30%: "))
+n2 = int(input("ingrese el numero que desea saber el 60%: "))
+n3 = int(input("ingrese el numero que desea saber el 90%: "))
+print("El resultado de 30% es: ",(n1*30/100))
+print("El resultado de 60% es: ",(n2*60/100))
+print("El resultado de 90% es: ",(n3*90/100))
